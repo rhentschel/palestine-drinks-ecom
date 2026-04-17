@@ -1,0 +1,18 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+dist/
+.medusa/
+.next/
+.turbo/
+.cache/
+coverage/
+.vercel
+.pnpm-store/
+storefront/out/
+
+# Coolify secrets
+.coolify
